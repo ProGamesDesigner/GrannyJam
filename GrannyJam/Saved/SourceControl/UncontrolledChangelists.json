@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/PostProcess/PP_BlackAndWhite.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Props/EmptyJamJar/JamGlass.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Props/EmptyJamJar/JamJar.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Props/EmptyJamJar/JamLid.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/LVL_MainMap.umap",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Granny/1000_F_127033431_XmbAgb0NTqda0SGXq1HSnokn33E3qOnD.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Props/FullJamJar/360_F_112716374_JS5gGAXdVPo6vt9IGZzkjyLd7ifEZ0Ii.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Granny/Granny.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Granny/images__1_.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Props/FullJamJar/Jam.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Props/FullJamJar/JamGlass.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Props/FullJamJar/JamJarWithJam.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Props/FullJamJar/JamLid.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Granny/phong1.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Granny/phong2.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Granny/phong3.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Granny/phong4.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Granny/phong5.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Granny/phong6.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Granny/pngtree-intricate-floral-design-on-textured-fabric-image_13912959.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Granny/volgalinen-volgalinenfabrics-neva-a01-aaaa03-01.uasset",
+				"X:/myDocuments/Unreal Projects/GrannyJam/Content/Granny/white-seamless-texture-cotton-light-natural-sheep-wool-with-clean-appearance_9930336__1_.uasset"
+			]
+		}
+	]
+}
